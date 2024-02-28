@@ -82,3 +82,11 @@ for (let i = 1; i <= 5; i++) {
 
 //Read the text on for loops and watch the video. Do any examples and then create more practice like those using chatGPT
 
+//Easy: Looping through Friends: 
+//Create an array of three friends (e.g., Alice, Bob, Charlie). Use a for loop to iterate over each name with the statement: "My friend is: [friend]". Display the results in the console.
+
+//Average Difficulty: 
+//Counting and Squaring Numbers: Create an array of numbers (e.g., 2, 4, 6, 8). Use a for loop to iterate over each number and display both the number and its square in the console. Use the statement: "The square of [number] is [square]".
+
+//Challenge: Odd or Even Checker
+//Create an array of numbers (e.g., 11, 14, 17, 20, 23). Use a for loop to iterate over each number and check if it's odd or even. Display the results in the console using the statement: "[number] is [odd/even]".
